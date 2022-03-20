@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Ramaraja&family=Roboto&display=swap');
+
+/* <---------NAV-BAR--------->*/
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+.nav-bar-menu{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 100px;
+
+}
+
+.nav-bar-link{
+    padding: 2em;
+}
+
+.nav-bar-link a{
+    color: #d48cc5;
+    font-size: 1.5em;
+    font-family: 'Ramaraja', serif;
+}
