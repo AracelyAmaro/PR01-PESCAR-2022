@@ -5,13 +5,16 @@
       background-color: var(---gray);
       margin-top: 20px;
 }
+.beneficios h1{
+      color: var(--brown);
+}
 .card-horizontal {
       display: flex;
       flex: 1 1 auto;
       padding: 4%;
     }
 .imageEvent{
-      width:400px;
+      width:500px;
     }
 .lineas::before{
       border-top: 2px solid #fff000;

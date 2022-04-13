@@ -12,6 +12,15 @@
         background-size: cover;
         height: 100vh;
 }
+.logo img{
+        width: 70px;
+}
+.mgra img{
+        width: 50px;
+}
+.logo{
+        padding-left: 20px;
+}
 
 .navbar{
         transition: 0,7s;

@@ -12,3 +12,8 @@
             font-size: 25px;
             font-weight: bold;
 }
+.prod{
+      font-family: 'PT Sans', sans-serif;
+      color: var(--brown);
+      letter-spacing: 0.2em;
+}
