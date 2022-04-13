@@ -1,0 +1,27 @@
+.p-completa{
+      height: 100vh;
+}
+.beneficios{
+      background-color: var(---gray);
+      margin-top: 20px;
+}
+.card-horizontal {
+      display: flex;
+      flex: 1 1 auto;
+      padding: 4%;
+    }
+.imageEvent{
+      width:400px;
+    }
+.lineas::before{
+      border-top: 2px solid #fff000;
+  content: "";
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 95%;
+  z-index: -1;
+}

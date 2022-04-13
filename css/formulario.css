@@ -1,0 +1,25 @@
+.form{
+      background-image: url(/PR01-PESCAR-2022/img/peakpx.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+}
+.formulario{
+      background: rgba(137, 135, 135, 0.5);
+      padding: 20px;
+
+}
+.title-form{
+      color: inherit;
+      
+      font-weight: 200;
+      line-height: 20px;
+}
+.ingresar{
+      margin-top: 20px;
+      box-shadow: 0 0 30px rgba(0,0,0,rgba(137, 135, 135, 0.5));
+}
+.ingresar:hover{
+      color: white;
+}
+

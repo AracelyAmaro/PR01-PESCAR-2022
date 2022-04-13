@@ -1,0 +1,14 @@
+.card-img-top{
+      background-size: cover;
+}
+.productos{
+      background-color: var(---gray);
+      /* color: var(--brown); */
+      color: #332f2c;
+}
+.title{
+      
+      font-family: 'Barlow Condensed', sans-serif;
+            font-size: 25px;
+            font-weight: bold;
+}

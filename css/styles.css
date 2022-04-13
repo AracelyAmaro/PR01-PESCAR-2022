@@ -1,4 +1,17 @@
+
 @import url(home.css);
+@import url(beneficios.css);
+@import url(productos.css);
+@import url(formulario.css);
+@import url(footer.css);
+@import url(img.css);
+
+:root{
+    ---gray:#EDEDEE;
+    --brown:#874421;
+    --verde: #1f4c3c;
+    --verde-oscuro: #013220;
+}
 *{
     margin: 0;
     padding: 0;
@@ -6,3 +19,15 @@
     text-decoration: none;
     box-sizing: border-box;
 }
+
+.btn-marron{
+    color:white;
+    background-color: #874421;
+    margin: 1em;
+    /* border-radius: 0.5em; */
+}
+.btn-marron:hover{
+    background-color: #9c5733;
+}
+
+
