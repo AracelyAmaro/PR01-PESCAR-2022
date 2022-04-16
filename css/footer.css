@@ -24,7 +24,7 @@
   
   .footer .p-footer{
       font-weight: 600;
-      font-size: 22px;
+      font-size: 18px;
       line-height: 30px;
   }
   .footer p{
@@ -43,7 +43,7 @@
   
   .segunda-seccion{
       background-color: var(--verde-oscuro);
-      padding: 3% 8%;
+      padding: 1% 8%;
       padding-bottom: 0;
       display: flex;  
       align-items: center;
@@ -53,6 +53,10 @@
       /* padding-right: 380px; */
       display: flex;
       gap: 35px;
+      
+  }
+  .seccions li a{
+    font-size: 20px;
   }
   .segunda-seccion .col-2{
       display: flex;
@@ -83,6 +87,18 @@
       background-color: var(--brown);
   }
   
+    /* mapa */
+.mapa{
+    /* background-color: var(--verde-oscuro); */
+    margin: 0;
+    padding: 0;
+}
+.mapa-google{
+    width: 100%;
+    height: 300px;
+}
+
+
   /* iconos del font-awesome */
   .container-icon i{
       width: 100%;

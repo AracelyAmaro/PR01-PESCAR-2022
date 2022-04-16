@@ -3,7 +3,7 @@
 }
 .beneficios{
       background-color: var(---gray);
-      margin-top: 20px;
+      /* margin-top: 20px; */
 }
 .beneficios h1{
       color: var(--brown);
